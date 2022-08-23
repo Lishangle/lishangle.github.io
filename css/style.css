@@ -1159,6 +1159,17 @@ footer .widget .social-network {
 	padding:0;
 }
 
+.qrcode{
+  text-align: center;
+}
+
+.qrcode div{
+  width: 100px;
+}
+
+.qrcode div img{
+  width: 95%;
+}
  
 ul.team-detail{
 	margin:-10px 0 0 0;
